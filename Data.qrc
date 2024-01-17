@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/QML_RESOURCES">
+        <file>main.qml</file>
+        <file>Login.qml</file>
+        <file>Signup.qml</file>
+        <file>StackViewPage.qml</file>
+        <file>StatusBar.qml</file>
+        <file>ttcanhan.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images.jpeg</file>
+    </qresource>
+    <qresource prefix="/Camera">
+        <file>camera.qml</file>
+        <file>PhotoCaptureControls.qml</file>
+        <file>CameraListButton.qml</file>
+        <file>Popup.qml</file>
+        <file>CameraButton.qml</file>
+        <file>CameraListPopup.qml</file>
+        <file>PhotoPreview.qml</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>donthuoc.qml</file>
+        <file>data.csv</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>toolbutton.sci</file>
+        <file>toolbutton.png</file>
+        <file>OIG.png</file>
+        <file>background.png</file>
+        <file>images2.jpeg</file>
+        <file>images1.jpeg</file>
+    </qresource>
+    <qresource prefix="/Page"/>
+</RCC>
